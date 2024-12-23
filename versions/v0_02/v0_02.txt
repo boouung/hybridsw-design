@@ -1,0 +1,4 @@
+Version 0.02
+-Experimented with modular/removable pegs.
+-Increase in number of cover mount points.
+-Adjustments to ring size and height.

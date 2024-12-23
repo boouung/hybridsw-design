@@ -1,0 +1,5 @@
+Version 0.06
+-Added mounting guides for the display.
+-Added opening for display wires.
+-Experimented with "clips" for holding the display in place.
+-Inverted mount points for display in order to create clearance for display wires.

@@ -1,0 +1,3 @@
+Version 0.05
+-Minor positional adjustments.
+-Improvements to display clearance with the cover.

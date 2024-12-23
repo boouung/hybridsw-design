@@ -1,0 +1,5 @@
+Version 0.03
+-Abandoned pegs in favor of integrated supports.
+-Increased number of supports to 4.
+-Attempts at adding time indicators to rings.
+-Initial attempts at positioning motor gear.

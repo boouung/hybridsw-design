@@ -1,0 +1,5 @@
+Version 0.10
+-Changed shift of outer ring gear (hour gear) to improve clearance.
+-Completed initial design for timekeeping symbols.
+-Altered radii to improve clearance required due to thermal expansion of PLA material.
+

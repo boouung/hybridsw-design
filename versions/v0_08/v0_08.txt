@@ -1,0 +1,7 @@
+Version 0.08
+-Flipped gear mechanism to allow for the motor gear to be mounted higher, reducing the overall height of the design.
+-Adjusted 6-gear position due to binding issues.
+-Changed post locations.
+-Added holes for display wire pass-through.
+-Added mounting holes in order to attach a "base" with battery and electronics (not pictured).
+

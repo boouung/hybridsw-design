@@ -1,0 +1,4 @@
+Version 0.04
+-Added openings in the cover as clearance for the SMD components mounted to the back of the display.
+-Swapped 5 tooth gear for a 6 tooth to minimize binding due to poor contact.
+-Minor positional adjustments.

@@ -1,0 +1,4 @@
+Version 0.01
+-First working example of a 12:1 gear reduction.
+-First working post/cover arrangement.
+-Proof of concept radial ring design.

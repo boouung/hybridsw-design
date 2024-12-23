@@ -1,0 +1,5 @@
+Version 0.09
+-Changed 6 toothed gear to 7-toothed gear to improve contact.
+-Reverted gear positioning to linear (straight line).
+
+
