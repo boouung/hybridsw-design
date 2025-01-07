@@ -1,4 +1,4 @@
-# hybridsw-design (compass)
+# hybrid_smartwatch-design (compass)
 
 <img src="https://github.com/boouung/hybridsw-design/blob/main/images/breakdown.png" width="300" /> <img src="https://github.com/boouung/hybridsw-design/blob/main/images/coin.jpg" width="300" />
 <img src="https://github.com/boouung/hybridsw-design/blob/main/images/geartest-closeup.jpg" width="300" />
