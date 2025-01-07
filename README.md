@@ -1,7 +1,7 @@
 # hybrid_smartwatch-design (compass)
 
 <img src="https://github.com/boouung/hybridsw-design/blob/main/images/breakdown.png" width="300" /> <img src="https://github.com/boouung/hybridsw-design/blob/main/images/coin.jpg" width="300" />
-<img src="https://github.com/boouung/hybridsw-design/blob/main/images/geartest-closeup.jpg" width="300" />
+<img src="https://github.com/boouung/hybrid_smartwatch-design/blob/main/images/geartest-setup.jpg" width="500" />
 
 ## Overview
 A repository containing the design files for a 3d-printable open-source hybrid smartwatch. 
