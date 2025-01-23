@@ -3,8 +3,10 @@
 <img src="https://github.com/boouung/hybridsw-design/blob/main/media/breakdown.png" width="300" /> <img src="https://github.com/boouung/hybridsw-design/blob/main/media/coin.jpg" width="300" />
 <img src="https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/geartest-setup.jpg" width="500" />
 
-Watch it in action!:
-[![Torque testing](https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/geartest-setup.jpg)](https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/Torque.mp4)
+
+Watch it in action!
+
+<img src="https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/GearTrainDemo.gif" width="500" />
 
 
 ## Overview
