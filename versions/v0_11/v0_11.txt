@@ -1,0 +1,9 @@
+Version 0.10
+-Minor changes to gear spacing and ring sizing.
+-Added curved posts to support the gears with minimal contact. These work the same way that the jewels in a watch
+do.
+-Testing indicates that the motor has enough torque to drive the gear train right up until the outer ring,
+where friction just becomes too much. A redesign is (probably) necessary.
+-v011_5 is an experiment with using spindles for the gears. While they lock them in place better, the increase in
+contact also increases friction, which just doesn't work.
+
