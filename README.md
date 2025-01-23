@@ -3,6 +3,10 @@
 <img src="https://github.com/boouung/hybridsw-design/blob/main/media/breakdown.png" width="300" /> <img src="https://github.com/boouung/hybridsw-design/blob/main/media/coin.jpg" width="300" />
 <img src="https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/geartest-setup.jpg" width="500" />
 
+Watch it in action!:
+[![Torque testing](https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/geartest-setup.jpg)](https://github.com/boouung/hybrid_smartwatch-design/blob/main/media/Torque.mp4)
+
+
 ## Overview
 A repository containing the design files for a 3d-printable open-source hybrid smartwatch. 
 Powered using an esp32 module, the watch displays the time using two concentric rings that circle a central OLED display. A small stepper motor powers a 12:1 gear ratio that keeps the rings synced. Menu/Time adjustment is done via two push buttons and a mouse encoder used as a knob.
